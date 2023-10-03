@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osashimi-XP
-- 👀 I’m interested in ...music programming language, MIDI, DIY some instrument
-- 🌱 I’m currently learning ...MIDI protocol
+- 👀 I’m interested in ...music programming language
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...discord:MuLrAsU#4970
 
