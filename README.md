@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osashimi-XP
-- 👀 I’m interested in ...music programming language
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...music programming language, mobile robot
+- 🌱 I’m currently learning ... ROS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...discord:MuLrAsU#4970
 
